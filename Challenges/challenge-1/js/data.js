@@ -59,5 +59,11 @@ var data = [
         desc: "Oh my kibble!",
         image: "images/image-11.jpg",
         bgColor: "#afa"
+    },
+    {
+        title: "Hello Kitty",
+        desc: "Don't forget my birthday!",
+        image: "images/image-12.jpg",
+        bgColor: "#afa"
     }
 ];
