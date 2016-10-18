@@ -53,5 +53,11 @@ var data = [
         desc: "Merry Christmas.",
         image: "images/image-10.jpg",
         bgColor: "#afa"
+    },
+    {
+        title: "Banye",
+        desc: "Oh my kibble!",
+        image: "images/image-11.jpg",
+        bgColor: "#afa"
     }
 ];
