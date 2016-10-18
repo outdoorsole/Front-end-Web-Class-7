@@ -41,5 +41,11 @@ var data = [
         desc: "Are you looking at me? >:(",
         image: "images/image-07.jpg",
         bgColor: "#afa"
+    },
+        {
+        title: "Shironeko",
+        desc: "Happy! Sha-la-la!",
+        image: "images/image-08.jpg",
+        bgColor: "#afa"
     }
 ];
