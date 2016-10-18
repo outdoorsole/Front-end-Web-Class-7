@@ -36,16 +36,22 @@ var data = [
         image: "images/image-06.jpg",
         bgColor: "#afa"
     },
-        {
+    {
         title: "Grumpy Cat",
         desc: "Are you looking at me? >:(",
         image: "images/image-07.jpg",
         bgColor: "#afa"
     },
-        {
+    {
         title: "Shironeko",
         desc: "Happy! Sha-la-la!",
         image: "images/image-08.jpg",
+        bgColor: "#afa"
+    },
+    {
+        title: "Garfi",
+        desc: "Merry Christmas.",
+        image: "images/image-10.jpg",
         bgColor: "#afa"
     }
 ];
