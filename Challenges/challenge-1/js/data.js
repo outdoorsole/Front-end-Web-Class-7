@@ -3,37 +3,43 @@ var data = [
     {
         title: "Kitty",
         desc: "Serious cat, brown",
-        image: "images/image-1.jpg",
+        image: "images/image-01.jpg",
         bgColor: "#afa"
     },
     {
         title: "Burrito Cat",
         desc: "Can I has cheezburger?",
-        image: "images/image-2.jpg",
+        image: "images/image-02.jpg",
         bgColor: "#afa"
     },
     {
         title: "Summer kitty",
         desc: "I am so cute you will do what I say!",
-        image: "images/image-3.jpg",
+        image: "images/image-03.jpg",
         bgColor: "#afa"
     },
     {
         title: "Staring Kitty",
         desc: "Once upon a time this morning I ate your hamster.",
-        image: "images/image-4.jpg",
+        image: "images/image-04.jpg",
         bgColor: "#afa"
     },
     {
         title: "Alfred",
         desc: "Sit down we have to talk about the quality of the food.",
-        image: "images/image-5.jpg",
+        image: "images/image-05.jpg",
         bgColor: "#afa"
     },
     {
         title: "Fuzzy Kitteh",
         desc: "Hold still while I prepare to jump on your face.",
-        image: "images/image-6.jpg",
+        image: "images/image-06.jpg",
+        bgColor: "#afa"
+    },
+        {
+        title: "Grumpy Cat",
+        desc: "Are you looking at me? >:(",
+        image: "images/image-07.jpg",
         bgColor: "#afa"
     }
 ];
